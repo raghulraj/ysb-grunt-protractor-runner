@@ -10,10 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/raghulraj/ysb-protractor-grunt-runner.git"
+    "url": "git://github.com/raghulraj/ysb-grunt-protractor-runner.git"
   },
   "bugs": {
-    "url": "https://github.com/teerapap/protractor-grunt-runner/issues"
+    "url": "https://github.com/raghulraj/ysb-grunt-protractor-runner/issues"
   },
   "main": "Gruntfile.js",
   "engines": {
