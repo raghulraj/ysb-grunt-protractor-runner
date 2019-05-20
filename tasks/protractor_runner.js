@@ -1,5 +1,7 @@
 /*
- * grunt-protractor-runner
+ * ysb-grunt-protractor-runner
+ * Custom wrapper for grunt-protractor-runner
+ *
  * https://github.com/teerapap/grunt-protractor-runner
  *
  * Copyright (c) 2013 Teerapap Changwichukarn
