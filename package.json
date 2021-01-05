@@ -1,7 +1,7 @@
 {
   "name": "ysb-grunt-protractor-runner",
   "description": "A Grunt plugin for running protractor runner with protractor flake",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "homepage": "https://github.com/raghulraj/ysb-protractor-grunt-runner",
   "author": {
     "name": "Raghul Raj V",
